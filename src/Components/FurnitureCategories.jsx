@@ -14,7 +14,7 @@ const FurnitureCategories = () => {
     <section
       className="relative w-full px-6 lg:px-20 py-16 flex justify-around items-center bg-cover bg-center bg-no-repeat overflow-hidden"
       style={{
-        backgroundImage: "url('src/assets/dark-fantasy-scene.jpg')",
+        backgroundImage: "url('/dark-fantasy-scene.jpg')",
       }}
     >
       <motion.div

@@ -10,7 +10,7 @@ const FurnitureImage = () => {
       className="w-full"
       style={{
         backgroundImage:
-          "url(src/assets/interior-design-neoclassical-style-with-furnishings-decor.jpg)",
+          "url(/interior-design-neoclassical-style-with-furnishings-decor.jpg)",
         backgroundSize: "cover",
         backgroundRepeat: "no-repeat",
         backgroundPosition: "fixed",
@@ -27,8 +27,8 @@ const FurnitureImage = () => {
             Elevate your space with luxury furnishings
           </h1>
           <p className="text-white text-lg md:text-xl">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Veniam,
-            vitae velit et omnis saepe.
+          A good quality piece of furniture should be structurally sound, solid and
+           well-built to ensure its prolonged use over the years.
           </p>
         </motion.div>
       </div>
